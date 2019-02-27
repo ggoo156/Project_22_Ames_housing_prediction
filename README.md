@@ -1,5 +1,26 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
+### Forward
+The goal of this project is to predict the the Ames housing sale price. Within this repository, you will find a documented process for sourcing, cleaning, modeling, and evaluating data. The models and methods contained here are intended for use by Zillow or other housing price websites for reference but we invite and encourage anybody to use this analysis to predict what there house sale price might be. (We will also submit our sale price for Kaggle competition!)
+
+# Executive Summary
+
+### Problem Statement
+New York City is the biggest city on the east coast of the United States and there are tons of different kinds of foods and restaurants in the melting pot. With the huge food market, NYC restaurant inspection is one of the most important issue since there are various ways to cook, store, and serve different kinds of food. I resolved to tap into this wealth of information, and use it to create a tool to provide NYC restaurant inspectors by applying statistical models with some recommendations. (although a savvy user could use this analysis as a reference to predict the inspection score (grade) of their own restaruant!). 
+
+### Kaggle Ames Housing Data
+- [**DOHMH NYC Inspection Results**](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
+- [**New York State ZIP Codes-County FIPS Cross-Reference**](https://data.ny.gov/Government-Finance/New-York-State-ZIP-Codes-County-FIPS-Cross-Referen/juva-r6g2)
+
+### Project Files and Workflow
+- [1.Data_Collection]
+- [2.Expolratory_Data_Analysis]
+- [3.Preprocessing]
+- [4.Modeling]
+- [5.Conclusion]
+
+
+
 Welcome to Project 2! It's time to start modeling.
 
 **Primary Learning Objectives:**
