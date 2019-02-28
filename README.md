@@ -8,7 +8,7 @@ The goal of this project is to predict the the Ames housing sale price by using 
 ### Problem Statement
  Zillow requested General Assembly(G.A) Data Science team to help predict the Ames housing sale price for their website improvement. Linear regression models will be used to find the model of best fit to predict the house price.
 
-### Kaggle Ames Housing Data[Here](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
+### Kaggle Ames Housing Data - [Here](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
 
 The Ames Housing Dataset is an exceptionally detailed and robust dataset with over 70 columns of different features relating to houses.
 
@@ -26,23 +26,3 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 - 4. Conclusion
 
 
-## Set-up
-
-Before you begin working on this project, please do the following:
-
-1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
-2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/cf68f4a276f44b59a3c6c843dbf9ed1e)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSI-US-6 Regression Challenge](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge)
-4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
-
-
-## Presentation Structure
-
-- **Must be within time limit established by local instructor.**
-- Use Google Slides or some other visual aid (Keynote, Powerpoint, etc).
-- Consider the audience. **Check with your local instructor for direction**.
-- Start with the **data science problem**.
-- Use visuals that are appropriately scaled and interpretable.
-- Talk about your procedure/methodology (high level).
-- Talk about your primary findings.
-- Make sure you provide **clear recommendations** that follow logically from your analyses and narrative and answer your data science problem.
