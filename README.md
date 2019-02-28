@@ -17,12 +17,11 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 - **sample_sub_reg.csv** -- An example of a correctly formatted submission for this challenge (with a random number provided as predictions for SalePrice. Please ensure that your submission to Kaggle matches this format.
 - Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
-
-
 ### Project Workflow
-- 1. Data_Cleaning and EDA
-- 2. Preprocessing_and_Feature_Engineering
-- 3. Modeling_and_Evaluation
-- 4. Conclusion
+- 1) Data_Cleaning and EDA
+- 2) Preprocessing_and_Feature_Engineering
+- 3) Modeling_and_Evaluation
+
+### Conclusion
 
 
