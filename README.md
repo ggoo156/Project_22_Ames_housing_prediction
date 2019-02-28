@@ -18,9 +18,9 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 - Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ### Project Workflow
-- 1) [Data_Cleaning and EDA](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/1.%20Data%20Cleaning%20and%20EDA.ipynb)
-- 2) [Preprocessing_and_Feature_Engineering](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/2.%20Preprocessing%20and%20Feature%20Engineering.ipynb)
-- 3) [Modeling_and_Evaluation](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/3.%20Modeling%20%26%20Evaluation.ipynb)
+1) [Data_Cleaning and EDA](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/1.%20Data%20Cleaning%20and%20EDA.ipynb)
+2) [Preprocessing_and_Feature_Engineering](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/2.%20Preprocessing%20and%20Feature%20Engineering.ipynb)
+3) [Modeling_and_Evaluation](https://github.com/ggoo156/Project_2_Ames_housing_prediction/blob/master/code/3.%20Modeling%20%26%20Evaluation.ipynb)
 
 ### Conclusion
 - Overall quality, above ground living area square feet, and garage area are the features that has the high correlation with the sale price.
