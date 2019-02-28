@@ -15,6 +15,7 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 - **train.csv** -- this data contains all of the training data for your model. The target variable (SalePrice) is removed from the test set!
 - **test.csv** -- this data contains the test data for your model. You will feed this data into your regression model to make predictions.
 - **sample_sub_reg.csv** -- An example of a correctly formatted submission for this challenge (with a random number provided as predictions for SalePrice. Please ensure that your submission to Kaggle matches this format.
+- Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 
 
