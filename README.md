@@ -23,7 +23,7 @@ The Ames Housing Dataset is an exceptionally detailed and robust dataset with ov
 - 3) Modeling_and_Evaluation
 
 ### Conclusion
-Overall quality, above ground living area square feet, and garage area are the features that has the high correlation with the sale price.
-Among the linear regression, elastic net performs the best for predicting Ames housing sale price.
+- Overall quality, above ground living area square feet, and garage area are the features that has the high correlation with the sale price.
+- Among the linear regression, elastic net performs the best for predicting Ames housing sale price.
 
 
