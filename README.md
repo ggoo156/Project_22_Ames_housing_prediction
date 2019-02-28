@@ -6,18 +6,18 @@ The goal of this project is to predict the the Ames housing sale price by using 
 # Executive Summary
 
 ### Problem Statement
- 
+ Zillow requested General Assembly(G.A) Data Science team to help predict the Ames housing sale price for their website improvement. Linear regression models will be used to find the model of best fit to predict the house price.
 
-### Kaggle Ames Housing Data
-- [**DOHMH NYC Inspection Results**](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
-- [**New York State ZIP Codes-County FIPS Cross-Reference**](https://data.ny.gov/Government-Finance/New-York-State-ZIP-Codes-County-FIPS-Cross-Referen/juva-r6g2)
+### [Kaggle Ames Housing Data](https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge/data)
+- **train.csv** -- this data contains all of the training data for your model. The target variable (SalePrice) is removed from the test set!
+- **test.csv** -- this data contains the test data for your model. You will feed this data into your regression model to make predictions.
+- **sample_sub_reg.csv** -- An example of a correctly formatted submission for this challenge (with a random number provided as predictions for SalePrice. Please ensure that your submission to Kaggle matches this format.
 
-### Project Files and Workflow
-- 1.Data_Collection
-- 2.Expolratory_Data_Analysis
-- 3.Preprocessing
-- 4.Modeling
-- 5.Conclusion
+### Project Workflow
+- 1. Data_Cleaning and EDA
+- 2. Preprocessing_and_Feature_Engineering
+- 3. Modeling_and_Evaluation
+- 4. Conclusion
 
 
 
